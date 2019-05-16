@@ -1,4 +1,4 @@
-# Machine_Learning
+# Machine Learning
 The repository contains the following projects:
 
 ## Project 1: A Gambling simulator
