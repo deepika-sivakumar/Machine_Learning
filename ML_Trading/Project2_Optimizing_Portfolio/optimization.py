@@ -30,8 +30,7 @@ def compute_daily_returns(port_value):
     daily_returns = daily_returns[1:]
     return daily_returns
 
-# This is the function that will be tested by the autograder
-# The student must update this code to properly implement the functionality
+#Function to optimize the portfolio
 def optimize_portfolio(sd=dt.datetime(2008,1,1), ed=dt.datetime(2009,1,1), \
     syms=['GOOG','AAPL','GLD','XOM'], gen_plot=False):
 
